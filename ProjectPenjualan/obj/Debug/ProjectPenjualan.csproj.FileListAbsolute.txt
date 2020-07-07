@@ -1,0 +1,7 @@
+D:\SEMESTER II\PEMROGRAMAN\UAS 14\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+D:\SEMESTER II\PEMROGRAMAN\UAS 14\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+D:\SEMESTER II\PEMROGRAMAN\UAS 14\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+D:\SEMESTER II\PEMROGRAMAN\UAS 14\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojAssemblyReference.cache
+D:\SEMESTER II\PEMROGRAMAN\UAS 14\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.CoreCompileInputs.cache
+D:\SEMESTER II\PEMROGRAMAN\UAS 14\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+D:\SEMESTER II\PEMROGRAMAN\UAS 14\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
